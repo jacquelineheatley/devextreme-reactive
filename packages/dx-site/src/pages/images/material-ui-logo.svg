@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="56px" height="56px" viewBox="0 0 56 56" enable-background="new 0 0 56 56" xml:space="preserve">
-<circle fill="#183C57" cx="28" cy="28" r="28"/>
-<rect x="8" y="8" opacity="0.7" fill="#FFFFFF" width="40" height="40"/>
-<polygon fill="#FFFFFF" points="48,8 8,8 28,48 "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" width="56" height="56" x="0" y="0" enable-background="new 0 0 56 56" version="1.1" viewBox="0 0 56 56" xml:space="preserve"><circle cx="28" cy="28" r="28" fill="#183C57"/><rect width="40" height="40" x="8" y="8" fill="#FFF" opacity=".7"/><polygon fill="#FFF" points="48 8 8 8 28 48"/></svg>
